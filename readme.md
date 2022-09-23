@@ -7,5 +7,5 @@
 <h2 dir="auto"><a href="https://github.com/nextwp/wp-shortcodes/#%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B-%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8" aria-hidden="true">
 </a>Примеры реализации</h2>
 <ul dir="auto">
-<li><a href="http://kazinohi.com/">kazinohi.com</a></li>
+<li><a href="https://kazinohi.com/">kazinohi.com</a></li>
 </ul>
